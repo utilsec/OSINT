@@ -1,6 +1,9 @@
 # Wordlist created from the NSA's ELITEWOLF project.
 # https://github.com/nsacyber/ELITEWOLF
 
+# This GitHub repository - github.com/utilsec
+# Connect with me on LinkedIn for ICS/OT cyber security content - linkedin.com/in/mikeholcomb
+
 # To use in Google searches, place the strings below in quotes and search away!
 # Review the signatures for other terms that could be used for Google searches and OSINT activities.
 

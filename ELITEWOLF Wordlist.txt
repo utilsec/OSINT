@@ -27,8 +27,8 @@
 # Schweitzer
 
 /home.sel
-/errors/err401.sel?username="
-/default.sel"
+/errors/err401.sel?username=
+/default.sel
 /scripts/dScripts.sel
 /css/sel.css?vid=
 /SEL-2701

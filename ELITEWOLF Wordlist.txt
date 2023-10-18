@@ -9,32 +9,32 @@
 
 # Allen-Bradley/Rockwell Automation 
 
-/rokform/advancedDiags?pageReq=tcp
-/rokform/SysDataDetail?name=
-/rokform/advancedDiags?pageReq=udptable
-/rokform/advancedDiags?pageReq=tcpconn
-/rokform/advancedDiags?pageReq=iproute
-/rokform/advancedDiags?pageReq=genmem
-/rokform/advancedDiags?pageReq=heap
-/rokform/advancedDiags?pageReq=icmp
-/rokform/advancedDiags?pageReq=arp
-/rokform/advancedDiags?pageReq=udp
-/rokform/advancedDiags?pageReq=if
-/rokform/advancedDiags?pageReq=ip
-/css/radevice.css
-/rokform/SysListDetail?name=
+rokform
+rokform/advancedDiags?pageReq=tcp
+rokform/SysDataDetail?name=
+rokform/advancedDiags?pageReq=udptable
+rokform/advancedDiags?pageReq=tcpconn
+rokform/advancedDiags?pageReq=iproute
+rokform/advancedDiags?pageReq=genmem
+rokform/advancedDiags?pageReq=heap
+rokform/advancedDiags?pageReq=icmp
+rokform/advancedDiags?pageReq=arp
+rokform/advancedDiags?pageReq=udp
+rokform/advancedDiags?pageReq=if
+rokform/advancedDiags?pageReq=ip
+css/radevice.css
+rokform/SysListDetail?name=
 
 # Schweitzer
 
-/home.sel
-/errors/err401.sel?username=
-/default.sel
-/scripts/dScripts.sel
-/css/sel.css?vid=
-/SEL-2701
+home.sel
+errors/err401.sel?username=
+default.sel
+scripts/dScripts.sel
+css/sel.css?vid=
 
 
 # Siemens
 
-/CSS/S7Web.css
-/Images/CPU1200/
+CSS/S7Web.css
+Images/CPU1200/
